@@ -340,6 +340,7 @@ int main()
 ### Step 8:
   Stop
 ## Program:
+```
 #include <stdio.h>
 
 int main()
@@ -363,6 +364,7 @@ int main()
 
     return 0;
 }
+```
 ## Output:
 <img width="456" height="439" alt="image" src="https://github.com/user-attachments/assets/e8d7ca4a-272b-402b-9afc-94bf795d0d9f" />
 
